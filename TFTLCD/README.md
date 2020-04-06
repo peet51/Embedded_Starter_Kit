@@ -34,11 +34,11 @@ Ucc   3.3 V
 
 GND  
 
-If you push the touch panel on menu, you have to press on screen for some time (and not to soft) to change the state...
+If you push the touch panel on menu, you have to press on screen for some time (and not too soft) to change the state...
 
 Only text icon in upper right corner and imagefile icon in bottom right corner of menu will respond to press...
 
-If you want to add custom image, you have to convert it to C array, with help of this link:
+If you want to add custom image, at first you have to convert it to C array, with help of this tool:
 
 https://www.digole.com/tools/PicturetoC_Hex_converter.php
 
